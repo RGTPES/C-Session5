@@ -2,11 +2,10 @@
 int main(){
 	int i = 1;
 	
-	while(i =3){
+	while(i =!3){
 		printf("nhap i\n");
 		scanf("%d",&i);
-		if(i == 3){
-			break;
+		
 		}
 	}
 }
