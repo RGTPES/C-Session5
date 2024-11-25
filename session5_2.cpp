@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+	int i;
 	printf("nhap i\n");
 		scanf("%d",&i);
 	
